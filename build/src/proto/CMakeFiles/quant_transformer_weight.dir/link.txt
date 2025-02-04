@@ -1,0 +1,2 @@
+/usr/local/share/android-ndk/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ar qc libquant_transformer_weight.a CMakeFiles/quant_transformer_weight.dir/quant_transformer_weight.cc.o CMakeFiles/quant_transformer_weight.dir/quant_transformer.pb.cc.o
+/usr/local/share/android-ndk/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ranlib libquant_transformer_weight.a

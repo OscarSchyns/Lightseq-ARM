@@ -1,0 +1,2 @@
+/usr/local/share/android-ndk/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ar qc libquant_transformer_model.a CMakeFiles/quant_transformer_model.dir/quant_transformer.cc.o CMakeFiles/quant_transformer_model.dir/quant_encoder.cc.o CMakeFiles/quant_transformer_model.dir/quant_decoder.cc.o
+/usr/local/share/android-ndk/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ranlib libquant_transformer_model.a

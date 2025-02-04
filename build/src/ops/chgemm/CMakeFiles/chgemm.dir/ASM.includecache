@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/oscarschyns/AndroidStudioProjects/Lightseq-ARM/src/ops/chgemm/int8kernel_m1.S
+public.h
+/Users/oscarschyns/AndroidStudioProjects/Lightseq-ARM/src/ops/chgemm/public.h
+
+/Users/oscarschyns/AndroidStudioProjects/Lightseq-ARM/src/ops/chgemm/int8kernel_m1_requant.S
+./int8kernel_m1.S
+/Users/oscarschyns/AndroidStudioProjects/Lightseq-ARM/src/ops/chgemm/int8kernel_m1.S
+
+/Users/oscarschyns/AndroidStudioProjects/Lightseq-ARM/src/ops/chgemm/int8kernel_m2.S
+public.h
+/Users/oscarschyns/AndroidStudioProjects/Lightseq-ARM/src/ops/chgemm/public.h
+
+/Users/oscarschyns/AndroidStudioProjects/Lightseq-ARM/src/ops/chgemm/int8kernel_m2_requant.S
+./int8kernel_m2.S
+/Users/oscarschyns/AndroidStudioProjects/Lightseq-ARM/src/ops/chgemm/int8kernel_m2.S
+
+/Users/oscarschyns/AndroidStudioProjects/Lightseq-ARM/src/ops/chgemm/int8kernel_m4.S
+public.h
+/Users/oscarschyns/AndroidStudioProjects/Lightseq-ARM/src/ops/chgemm/public.h
+
+/Users/oscarschyns/AndroidStudioProjects/Lightseq-ARM/src/ops/chgemm/int8kernel_m4_requant.S
+./int8kernel_m4.S
+/Users/oscarschyns/AndroidStudioProjects/Lightseq-ARM/src/ops/chgemm/int8kernel_m4.S
+
+/Users/oscarschyns/AndroidStudioProjects/Lightseq-ARM/src/ops/chgemm/kernel_m4n4k16.S
+
+/Users/oscarschyns/AndroidStudioProjects/Lightseq-ARM/src/ops/chgemm/public.h
+
+/Users/oscarschyns/AndroidStudioProjects/Lightseq-ARM/src/ops/chgemm/reorder_a.S
+public.h
+/Users/oscarschyns/AndroidStudioProjects/Lightseq-ARM/src/ops/chgemm/public.h
+
+/Users/oscarschyns/AndroidStudioProjects/Lightseq-ARM/src/ops/chgemm/reorder_b.S
+

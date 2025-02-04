@@ -1,0 +1,2 @@
+/usr/local/share/android-ndk/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ar qc liblightseq_model.a CMakeFiles/lightseq_model.dir/lightseq_model.cpp.o
+/usr/local/share/android-ndk/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ranlib liblightseq_model.a

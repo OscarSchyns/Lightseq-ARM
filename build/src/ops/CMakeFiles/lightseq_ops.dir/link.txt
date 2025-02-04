@@ -1,0 +1,2 @@
+/usr/local/share/android-ndk/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ar qc liblightseq_ops.a CMakeFiles/lightseq_ops.dir/embedding.cc.o CMakeFiles/lightseq_ops.dir/layernorm.cc.o CMakeFiles/lightseq_ops.dir/gemm.cc.o CMakeFiles/lightseq_ops.dir/quantize.cc.o CMakeFiles/lightseq_ops.dir/attention.cc.o CMakeFiles/lightseq_ops.dir/activation_add.cc.o
+/usr/local/share/android-ndk/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ranlib liblightseq_ops.a
